@@ -1,0 +1,12 @@
+{
+    "name": "com.crosswiredstudios.badelfunity",
+    "version": "1.0.0",
+    "displayName": "Bad Elf Unity",
+    "description": "Bad Elf Unity Plugin for iOS",
+    "unity": "2022.3",
+    "author": {
+        "name": "Matthew Wood",
+        "email": "support@crosswiredstudios.com",
+        "url": "https://crosswiredstudios.com"
+    }
+}
